@@ -1,0 +1,15 @@
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\bin\Debug\net6.0\Iteration-Statements-Loops-Exercise-1.exe
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\bin\Debug\net6.0\Iteration-Statements-Loops-Exercise-1.deps.json
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\bin\Debug\net6.0\Iteration-Statements-Loops-Exercise-1.runtimeconfig.json
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\bin\Debug\net6.0\Iteration-Statements-Loops-Exercise-1.dll
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\bin\Debug\net6.0\Iteration-Statements-Loops-Exercise-1.pdb
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\obj\Debug\net6.0\Iteration-Statements-Loops-Exercise-1.csproj.AssemblyReference.cache
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\obj\Debug\net6.0\Iteration-Statements-Loops-Exercise-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\obj\Debug\net6.0\Iteration-Statements-Loops-Exercise-1.AssemblyInfoInputs.cache
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\obj\Debug\net6.0\Iteration-Statements-Loops-Exercise-1.AssemblyInfo.cs
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\obj\Debug\net6.0\Iteration-Statements-Loops-Exercise-1.csproj.CoreCompileInputs.cache
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\obj\Debug\net6.0\Iteration-Statements-Loops-Exercise-1.dll
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\obj\Debug\net6.0\refint\Iteration-Statements-Loops-Exercise-1.dll
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\obj\Debug\net6.0\Iteration-Statements-Loops-Exercise-1.pdb
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\obj\Debug\net6.0\Iteration-Statements-Loops-Exercise-1.genruntimeconfig.cache
+C:\Users\PC-IM\repos\Iteration-Statements-Loops-Exercise-1\obj\Debug\net6.0\ref\Iteration-Statements-Loops-Exercise-1.dll
